@@ -1,0 +1,103 @@
+﻿<!DOCTYPE html>
+
+<html>
+
+<head>
+<title>BSF_Website_beta_<EEL></title>
+<link rel="stylesheet" href="EEL.css">
+</head>
+
+<header>
+<h1 id="h1">BATAAN SCHOOL OF FISHERIES</h1>
+<center><img src="HATDOG1.png" weight="300" height="180"></center>
+<p class="u">SINCE 1971</p>
+<body>
+
+<CENTER>
+
+<li><a class="active"href="#5">ABOUT</a></li>
+<li><a class="active"href="#3">BSF HYMN</a></li>
+<li><a class="active"href="#1">MISSION</a></li>
+<li><a class="active"href="#4">VISION</a></li>
+<li><a class="active"href="#2">ADDRESS</a></li>
+
+</CENTER>
+
+<p><center><input type="search" placeholder="Search"></center></p>
+
+<h3 id="4">VISION</h3>
+<h2 class="A"  style="font-family: arial, verdana, sans-serif;"><b>VISION</b></h2>
+<h3 id="a"  style=" font-family: lucidaconsole, monaco, monospace;"><b>-</b>We dream of every Filipino who possionetely love their country and whose values and competencies enable them to realize
+their full potential and contribute miningfully to building the nation.
+As a learner-centered public institution, the Department of Education continously improves 
+itself to better serve its stakholders.</h3> 
+
+<h3 id="1">MISSION</h3>
+<h2 class="B"  style="font-family: arial, verdana, sans-serif;"><b>MISION</b></h2>
+<h3 id="b"  style=" font-family: lucidaconsole, monaco, monospace;"><b>-</b>To protect and promote the right of every Filipino to quality, equitable, cultured-based, and complete basic education 
+where: Students learn in a child-friendly, gender-sensitive, safe, and motivating environment. Teachers facilitate learning
+and constantly nurture every learner. Administrator and staff, as stewards of the institution, ensure an enabling and
+supportive environment for effective learning to happen. Family, community, and other stakeholders are actively engaged and
+share responsibility for developing life-long learners.</h3>
+
+<h3 id="3">BSF HYMN</h3>
+<h2 class="B"  style="font-family: arial, verdana, sans-serif;"><b>BSF HYMN</b></h2>
+<h3 id="c"  style=" font-family: lucidaconsole, monaco, monospace;"><b>-</b>Bataan school of fisheries<br>
+deep in our fondes memories<br>
+sweet breezes gently<br>
+sign thy name dear<br>
+through all the lands<br>
+across the seas<br>
+
+What ever be our destiny<br>
+through eons of enternity<br>
+we sing it loudly very proudly<br>
+whitin our hearts<br>
+thy cherished have will ever be<br>
+
+Rise to her call<br>
+ye lustly pioneers<br>
+up give her call<br>
+through gladness<br>
+and through tears<br>
+let the wonder of her name<br>
+her glorious re-echo<br>
+through the years<br>
+
+Sail on,oh happy ship<br>
+bataan school of fisheries<br>
+kepp on,thy glorious trip<br>
+through all uncharted stormy seas<br>
+shine on from years to years<br>
+thy loyal students we will be<br>
+we love thee ever<br>
+how and forever<br>
+our alma mater dear<br>
+ </h3>
+
+<h3 id="5">ABOUT</h3>
+<h2 class="D"  style="font-family: arial, verdana, sans-serif;"><b>ABOUT</b></h2>
+<h3 id="d"  style=" font-family: lucidaconsole, monaco, monospace;"><b>-</b>Bataan School Fisheries was established on January 01, 1971 Bataan School of Fisheries is a school in the province of Bataan,
+III - Central Luzon, In the Municioality of Orion Bataan School of Fisheries  is an institution accredited by TESDA that offers Technical Programs (TVET)
+under the Technical Education and Skills Development Authority (TESDA) and the commission on Higher Education (CHED)
+</h3>
+
+<h3 id="2">ADDRESS</h3>
+<h2 class="E"  style="font-family: arial, verdana, sans-serif;"><b>ADDRESS</b></h2>
+<h3 id="e"  style=" font-family: lucidaconsole, monaco, monospace;"><b>-</b>
+Address: Daan Bago, Orion, Bataan<br>     School ID: 300703<br>
+
+Tel/Fax No.: 047 237_1726<br>             Email: 300703@deped.gov.ph<br>
+
+Mobile No.: 09088135067<br>               Facebook: www.facebook.com/bataanschooloffisheries<br>
+
+</h3>
+
+<footer>
+<center><a href="#h1">Back to Top</a></center>
+</footer>
+
+
+</body>
+
+</html>

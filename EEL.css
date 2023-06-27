@@ -1,0 +1,192 @@
+﻿body {
+background: url("hehe.jpg") fixed;
+background-size: cover;
+height: 100vh;
+}
+
+
+h1 {
+   text-align: center;
+   font-family: "Tw Cen MT Condensed Extra Bold", Tahoma;
+}
+
+p.u {
+    text-align: center;
+    font-family: "Franklin Gothic Demi cond", Tahoma;
+}
+
+h2.A {    
+      border: 10px solid silver;
+      border-radius: 5px 5px 0px 0px;
+      padding: 5px;
+      max-width: 300px;
+      background-color: silver;
+      margin: 0px;
+      position: relative;
+      left: 100px;
+      width: 300px;
+      height: 25px;
+      
+}
+
+#a {    
+      border: 10px solid Gainsboro;
+      border-radius: 0px 0px 5px 5px ;
+      padding: 5px;
+      max-width: 300px;
+      background-color: Gainsboro;
+      margin: -5px;
+      margin-bottom: 30px;
+      position: relative;
+      top: 0px;
+      left: 105px;
+      width: 200px
+      height: 100px;  
+      
+}
+
+h2.B {    
+      border: 10px solid silver;
+      border-radius: 5px 5px 0px 0px;
+      padding: 5px;
+      max-width: 300px;
+      background-color: silver;
+      margin: 0px;
+      position: relative;
+      left: 100px;
+      width: 300px;
+      height: 25px;
+      
+}
+
+#b {    
+      border: 10px solid Gainsboro;
+      border-radius: 0px 0px 5px 5px ;
+      padding: 5px;
+      max-width: 300px;
+      background-color: Gainsboro;
+      margin: -5px;
+      margin-bottom: 30px;
+      position: relative;
+      top: 0px;
+      left: 105px;
+      width: 200px
+      height: 100px;  
+      
+}
+
+h2.C {    
+      border: 10px solid silver;
+      border-radius: 5px 5px 0px 0px;
+      padding: 5px;
+      max-width: 300px;
+      background-color: silver;
+      margin: 0px;
+      position: relative;
+      left: 100px;
+      width: 300px;
+      height: 25px;
+      
+}
+
+#c {    
+      border: 10px solid Gainsboro;
+      border-radius: 0px 0px 5px 5px ;
+      padding: 5px;
+      max-width: 300px;
+      background-color: Gainsboro;
+      margin: -5px;
+      margin-bottom: 30px;
+      position: relative;
+      top: 0px;
+      left: 105px;
+      width: 200px
+      height: 100px;  
+      
+}
+
+h2.D {    
+      border: 10px solid silver;
+      border-radius: 5px 5px 0px 0px;
+      padding: 5px;
+      max-width: 300px;
+      background-color: silver;
+      margin: 0px;
+      position: relative;
+      left: 100px;
+      width: 300px;
+      height: 25px;
+      
+}
+
+#d {    
+      border: 10px solid Gainsboro;
+      border-radius: 0px 0px 5px 5px ;
+      padding: 5px;
+      max-width: 300px;
+      background-color: Gainsboro;
+      margin: -5px;
+      margin-bottom: 30px;
+      position: relative;
+      top: 0px;
+      left: 105px;
+      width: 200px
+      height: 100px;  
+      
+}
+
+h2.E {    
+      border: 10px solid silver;
+      border-radius: 5px 5px 0px 0px;
+      padding: 5px;
+      max-width: 300px;
+      background-color: silver;
+      margin: 0px;
+      position: relative;
+      left: 100px;
+      width: 300px;
+      height: 25px;
+      
+}
+
+#e {    
+      border: 10px solid Gainsboro;
+      border-radius: 0px 0px 5px 5px ;
+      padding: 5px;
+      max-width: 300px;
+      background-color: Gainsboro;
+      margin: -5px;
+      margin-bottom: 30px;
+      position: relative;
+      top: 0px;
+      left: 105px;
+      width: 200px
+      height: 100px;  
+      
+}
+.navbar ul {
+float: right;
+margin-right: 20px;
+}
+
+.navbar ul li {
+list-style none;
+margin: 0 8px;
+display: inline-block;
+line-height: 80px;
+}
+
+.navbar ul li a {
+text-decoration: none;
+color: white;
+font-size: 20px;
+padding: 6px 13px;
+font-family: sans-serif;
+transition: .4s;
+}
+
+.navbar ul li a.active,
+.navbar ul li a:hover{
+background: red;
+border-radius: 2px;
+}
